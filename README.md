@@ -52,12 +52,7 @@ This combination allows building a responsive, user-friendly desktop app with ro
     source venv/bin/activate  # Windows: venv\Scripts\activate
     ```
 
-3. Install dependencies (if available):  
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Initialize the database schema:  
+3. Initialize the database schema:  
     ```bash
     python db_migration.py
     ```
