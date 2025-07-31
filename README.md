@@ -15,6 +15,15 @@ A **desktop task manager app** built with Python, designed to help users efficie
 
 ---
 
+### 🛠️ Technology Stack
+
+- **Programming Language:** Python 🐍  
+- **GUI Framework:** PyQt / PySide (Qt for Python) 🎨  
+- **Database:** SQLite or other relational DB (via `db_manager.py`) 🗄️  
+
+This combination allows building a responsive, user-friendly desktop app with robust backend support for task and user management.
+
+
 ## 📁 File Structure
 
 | File Name           | Description                                  |
